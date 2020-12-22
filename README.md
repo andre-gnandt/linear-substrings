@@ -1,5 +1,4 @@
 # linear-substrings
-A linear algorithm that finds the lexicographically last substring for any sub-length of any given String
 
 Given any string S the algorithm will determine the lexicographically last substring of S in O(n) time, where n = length of S.
 
